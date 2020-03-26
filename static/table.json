@@ -1,0 +1,44 @@
+{
+    "list": [{
+            "id": 1,
+            "dic_id":101,
+            "dic_name": "职务",
+            "cre_name": "陈泽狂林",
+            "last_name": "陈泽林",
+            "state": "固定",
+            "cre_date": "2019-11-1",
+            "last_date": "2020-1-1"
+        },
+        {
+            "id": 2,
+            "dic_id":200,
+            "dic_name": "证件",
+            "cre_name": "陈泽魔林",
+            "last_name": "陈泽林",
+            "state": "固定",
+            "cre_date": "2019-10-11",
+            "last_date": "2020-2-29"
+        },
+        {
+            "id": 3,
+            "dic_id":503,
+            "dic_name": "签到",
+            "cre_name": "陈泽怪林",
+            "last_name": "陈泽林",
+            "state": "不固定",
+            "cre_date": "2019-11-11",
+            "last_date": "2020-3-7"
+        },
+        {
+            "id": 4,
+            "dic_id":708,
+            "dic_name": "状态",
+            "cre_name": "陈泽猛林",
+            "last_name": "陈泽林",
+            "state": "固定",
+            "cre_date": "2019-10-20",
+            "last_date": "2020-3-20"
+        }
+    ],
+    "pageTotal": 4
+}
